@@ -5,7 +5,7 @@
 * :penguin:  Linux junkie and open source fanatic
 * :hammer_and_wrench: I love using Rust, Golang, containers, and Kubernetes to tackle problems
 
-#### Get in touch
+### Get in touch
 
 * :page_facing_up: `sudoforge@irc.libera.chat/6697`
 * :bird:           I sometimes post random thoughts to [Twitter][twitter]
